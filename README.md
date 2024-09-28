@@ -42,7 +42,7 @@ BillBuddy-v1.0.0/
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/billbuddy.git
+   git clone https://github.com/TECHGAMERHT/billbuddy.git
    ```
 2. **Navigate to the project directory:**
    ```bash
