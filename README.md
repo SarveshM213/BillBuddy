@@ -46,7 +46,7 @@ BillBuddy-v1.0.0/
    ```
 2. **Navigate to the project directory:**
    ```bash
-   cd splitter
+   cd src
    ```
 
 3. **Ensure you have Java installed:**
@@ -61,12 +61,12 @@ To compile and run the application, follow these steps:
 
 1. **Compile the project:**
    ```bash
-   javac src/*.java
+   javac *.java
    ```
 
 2. **Run the application:**
    ```bash
-   java src/BillBuddyUI
+   java BillBuddyUI
    ```
 
 Once the program starts, you'll be prompted to enter your choices for creating groups, adding/removing users, and managing expenses.
