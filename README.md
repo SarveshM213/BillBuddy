@@ -1,5 +1,3 @@
-Here’s a comprehensive `README.md` file for your BillBuddy project:
-
 ---
 
 # BillBuddy - Bill Splitting System
